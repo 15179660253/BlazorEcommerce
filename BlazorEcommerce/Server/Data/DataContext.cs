@@ -59,7 +59,7 @@
                 {
                     Id = 4,
                     CategoryId = 2,
-                    Price = 4.99m,
+                    Price = 40.99m,
                     Title = "星际穿越",
                     Description = "地球农作物因气候转变及枯萎病而经常失收，曾是美国国家航空航天局的工程师和航天飞机驾驶员的库珀（马修·麦康纳饰）被迫成为农民以协助解决粮食危机。库珀的10岁女儿墨菲（麦肯基·弗依饰）发现其房间书架上的书本无故掉到地上，认为这是幽灵现象。不久后，一场沙尘暴在墨菲房间中留下二进制坐标，二人驱车到达坐标位置后发现那是北美空防司令部（美国国家航空航天局的秘密基地）。",
                     ImageUrl = "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fuploads.xuexila.com%2Fallimg%2F1707%2F1024-1FG0144334.jpg&refer=http%3A%2F%2Fuploads.xuexila.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1661764196&t=a012a15fd2231c40e47ba23f34e21284"
