@@ -51,7 +51,8 @@
                         Title = "The Hitchhiker's Guide to the Galaxy",
                         Description = "The Hitchhiker's Guide to the Galaxy[note 1] (sometimes referred to as HG2G,[1] HHGTTG,[2] H2G2,[3] or tHGttG) is a comedy science fiction franchise created by Douglas Adams. Originally a 1978 radio comedy broadcast on BBC Radio 4, it was later adapted to other formats, including stage shows, novels, comic books, a 1981 TV series, a 1984 text-based computer game, and 2005 feature film.",
                         ImageUrl = "https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/baike/h=152/sign=a6f8c2b1fadcd100d29cfc24408a47be/78310a55b319ebc42a7a1e258026cffc1e17160f.jpg",
-                        CategoryId = 1
+                        CategoryId = 1,
+                        Featured = true
                     },
                     new Product
                     {
@@ -83,7 +84,8 @@
                         CategoryId = 2,
                         Title = "Back to the Future",
                         Description = "Back to the Future is a 1985 American science fiction film directed by Robert Zemeckis. Written by Zemeckis and Bob Gale, it stars Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover, and Thomas F. Wilson. Set in 1985, the story follows Marty McFly (Fox), a teenager accidentally sent back to 1955 in a time-traveling DeLorean automobile built by his eccentric scientist friend Doctor Emmett \"Doc\" Brown (Lloyd). Trapped in the past, Marty inadvertently prevents his future parents' meeting—threatening his very existence—and is forced to reconcile the pair and somehow get back to the future.",
-                        ImageUrl = "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.5nd.com%2F86%2FPhoto%2FNew%2F2010%2F15274%2F32348.jpg&refer=http%3A%2F%2Fimg.5nd.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1662019331&t=79bc0d522379e7d40217b4d7f99adc1c"
+                        ImageUrl = "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.5nd.com%2F86%2FPhoto%2FNew%2F2010%2F15274%2F32348.jpg&refer=http%3A%2F%2Fimg.5nd.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1662019331&t=79bc0d522379e7d40217b4d7f99adc1c",
+                        Featured = true
                     },
                     new Product
                     {
@@ -115,7 +117,8 @@
                         CategoryId = 3,
                         Title = "Day of the Tentacle",
                         Description = "Day of the Tentacle, also known as Maniac Mansion II: Day of the Tentacle, is a 1993 graphic adventure game developed and published by LucasArts. It is the sequel to the 1987 game Maniac Mansion.",
-                        ImageUrl = "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic%2F12561%2Fcut-20131022162739-1801369549.jpg%2F0&refer=http%3A%2F%2Fpic.baike.soso.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1662019617&t=0c2814430a8c1dd68e2865a3f29ed8ae"
+                        ImageUrl = "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.baike.soso.com%2Fugc%2Fbaikepic%2F12561%2Fcut-20131022162739-1801369549.jpg%2F0&refer=http%3A%2F%2Fpic.baike.soso.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1662019617&t=0c2814430a8c1dd68e2865a3f29ed8ae",
+                        Featured = true
                     },
                     new Product
                     {
