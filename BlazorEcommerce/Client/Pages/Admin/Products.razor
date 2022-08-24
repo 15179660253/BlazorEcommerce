@@ -49,7 +49,7 @@ else
                     <td>
                         @foreach (var variant in product.Variants)
                         {
-                            @(product.Visible ? "✔️" : "")
+                            @(variant.Visible ? "✔️" : "")
 
                             <br />
                         }
